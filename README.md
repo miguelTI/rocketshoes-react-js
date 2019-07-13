@@ -11,7 +11,7 @@ The rocketshoes store web app. Built using React JS, Redux and Redux Saga.
 `yarn`
 
 ### Run local api
-`yarn json-server server.json -p 3333`
+`yarn json-server db.json -p 3333`
 
 ### Code !
 `yarn start`
