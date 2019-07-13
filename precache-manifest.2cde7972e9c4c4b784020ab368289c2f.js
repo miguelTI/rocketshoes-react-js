@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2d936e0e81ad841e7532b707115cffe2",
+    "revision": "2f5bc9b1e1c5a2004336e334d15dc6af",
     "url": "/rocketshoes-react-js/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rocketshoes-react-js/static/js/2.890f431f.chunk.js"
   },
   {
-    "revision": "13c16dadde11d4e6d1c2",
-    "url": "/rocketshoes-react-js/static/js/main.90b471ed.chunk.js"
+    "revision": "e7aa16c3559b171aee9c",
+    "url": "/rocketshoes-react-js/static/js/main.2967a1b4.chunk.js"
   },
   {
     "revision": "83de94ec6aba1f0ae857",
